@@ -1,5 +1,5 @@
 {
-	"name": "boilerplate",
+	"name": "@musicenviro/boilerplate",
 	"version": "0.0.0",
 	"description": "boilerplate for typescript package",
 	"main": "lib/index.js",
