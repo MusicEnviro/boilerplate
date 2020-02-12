@@ -20,10 +20,16 @@ Some details here are specifc to the @musicenviro scope
 
 4. `rm package-lock.json && rm -rf node_modules && npm i`
 
-5. create first commit and push:
+5. create repository on github
+
+    - note: is this necessary for github but not for gitlab?
+    - note: call it musicenviro-\<projectname\>. The corresponding npm package, if that's what this is,
+      will be called @musicenviro/\<projectname\>
+
+6. create first commit and push:
     ```
     git add .
     git commit -m "first commit (copied from @musicenviro/boilerplate)"
-    git remote add origin https://github.com/geofholbrook/<projectname>.git
+    git remote add origin https://github.com/geofholbrook/musicenviro-\<projectname\>.git
     git push -u origin master
     ```
