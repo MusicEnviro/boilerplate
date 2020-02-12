@@ -4,7 +4,8 @@ Some details here are specifc to the @musicenviro scope
 
 ## what this is trying to set up for you in advance:
 
--   Typescript
+-   Typescript config
+-   ts-node
 -   ESLint
 -   Prettier
 -   type definitions for node
