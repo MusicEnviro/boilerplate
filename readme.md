@@ -1,6 +1,6 @@
 # boilerplate workspace for a typescript-based npm package
 
-Some details here are specifc to the @musicenviro scope
+Some details here are specific to the @musicenviro scope
 
 ## what this is trying to set up for you in advance:
 
