@@ -27,9 +27,12 @@ Some details here are specific to the @musicenviro scope
       will be called @musicenviro/\<projectname\>
 
 6. create first commit and push:
+
     ```
     git add .
     git commit -m "first commit (copied from @musicenviro/boilerplate)"
     git remote add origin https://github.com/geofholbrook/musicenviro-\<projectname\>.git
     git push -u origin master
     ```
+
+7. edit this file!
